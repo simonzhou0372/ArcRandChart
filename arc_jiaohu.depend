@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1639406593 source:d:\usst\c\new folder\arc_jiaohu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1639407564 source:d:\usst\c\a\arc_jiaohu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
